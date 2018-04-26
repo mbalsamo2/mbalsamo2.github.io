@@ -1,15 +1,15 @@
 ---
 layout: post
 title:      "...And The Way You Code, Tonight."
-date:       2018-02-25 20:30:47 +0000
+date:       2018-02-25 15:30:48 -0500
 permalink:  and_the_way_you_code_tonight
 ---
 
 
-Some day, when I'm awfully low
-When the world needs code
-I will feel a glow just thinking of you
-And the way you code tonight
+Some day, when I'm awfully low,
+When the world needs code,
+I will feel a glow just thinking of you,
+And the way you code tonight.
 
 
 Sinatra App project is completed and I must say I am starting to feel like a programmer. Even though I know I have only started to open the Pandora's Box that is coding, I am absolutely loving how far I have come. 
@@ -26,7 +26,7 @@ As soon as I was done with this project, I sent the video demo to my family and 
 
 I love how each project just energizes me even more to move into the next section and learn what else programming has in store for me.
 
-If you want to check out my video demo: https://app.box.com/s/o69iefnevoon9pfm6rx5mux2dlscuswe (styling to come)
+If you want to check out my video demo: [Foodie Cookbook Sinatra Portfolio Project]( https://www.youtube.com/watch?v=vhH7WsrwLwg&feature=youtu.be) (styling to come)
 
 
 
