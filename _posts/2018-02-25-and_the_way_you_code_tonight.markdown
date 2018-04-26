@@ -26,7 +26,7 @@ As soon as I was done with this project, I sent the video demo to my family and 
 
 I love how each project just energizes me even more to move into the next section and learn what else programming has in store for me.
 
-If you want to check out my video demo: [Foodie Cookbook Sinatra Portfolio Project]( https://www.youtube.com/watch?v=vhH7WsrwLwg&feature=youtu.be) (styling to come)
+If you want to check out my video demo: [Foodie Cookbook Sinatra Portfolio Project]( https://www.youtube.com/watch?v=vhH7WsrwLwg&feature=youtu.be) (styling to come)! 
 
 
 
