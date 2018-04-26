@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Forking, Pushing, and Pulling When You Want To Knife It All."
-date:       2017-12-18 22:28:47 +0000
+date:       2017-12-18 17:28:47 -0500
 permalink:  forking_pushing_and_pulling_when_you_want_to_knife_it_all
 ---
 
@@ -19,7 +19,7 @@ Obviously opening the lab is only half the battle, so I then had to learn how to
 
 [How to Submit](http://help.learn.co/workflow-tips/github/how-to-manually-submit-a-lab)
 
-Once again, the link walked me through each step of the process making it easy to submit. The terminal is become less and less scary as I work with it more, and being able to manually open and submit my labs was definitely a big step in overcoming some of my fears of the terminal.
+Once again, the link walked me through each step of the process making it easy to submit. The terminal has become less and less scary as I work with it more. Additionally,  being able to manually open and submit my labs was definitely a big step in overcoming some of my fears of the terminal and just another goal I can check out that I completed!
 
 Even though I'm still in the "intro" parts of the curriculum, I am already learning the importance of pushing myself outside of my comfort zone. Take the time to learn how things are actually working, don't depend on the training wheels provided for you for too long. 
 
