@@ -84,7 +84,7 @@ const cereal = "Cheerios";
  // Uncaught ReferenceError: outside is not defined
  ```
  
- Now at first you may be confused because clearly you declared and assigned the variable `outisde` but since it's scope is local, within the function, you can only call on that variable within the function. Once you are outside the function, you are back within global scope land and do not have access to that variable. 
+ Now at first you may be confused because clearly you declared and assigned the variable `outside` but since it's scope is local, within the function, you can only call on that variable within that function. Once you are outside the function, you are back within global scope land and do not have access to that variable. 
  
 If we wanted to return "rainy" we would have to return the variable within the function, and then invoke the function:
 
