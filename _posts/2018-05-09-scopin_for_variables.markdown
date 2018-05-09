@@ -30,7 +30,6 @@ Here we declared a variable bob twice and assigned it different values, but no e
 ```
 var tomorrow;
 
-
 tomorrow = "Thursday";
 ```
 
@@ -78,7 +77,7 @@ const cereal = "Cheerios";
  
  ```
  function tomorrow() {
-        `const outside = "rainy";
+  const outside = "rainy";
  }
  
  outside;
@@ -91,9 +90,8 @@ If we wanted to return "rainy" we would have to return the variable within the f
 
 ```
   function tomorrow() {
-        const outside = "rainy";
-				
-				return outside
+   const outside = "rainy";
+	 return outside
  }
  
 tomorrow();
