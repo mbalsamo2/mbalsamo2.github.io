@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scopin' for variables"
-date:       2018-05-09 23:00:40 +0000
+date:       2018-05-09 19:00:41 -0400
 permalink:  scopin_for_variables
 ---
 
