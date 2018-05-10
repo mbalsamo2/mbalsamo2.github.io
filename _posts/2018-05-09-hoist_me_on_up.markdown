@@ -77,4 +77,4 @@ danceMoves();
 // ReferenceError: twist is not defined
 ```
 
-`const` and `let` fix the issues we have when `var`, so besides always declaring and assigning your variables at the top of their scope, always avoid using `var` whenever possible!
+`const` and `let` fix the issues we have with `var`, so besides always declaring and assigning your variables at the top of their scope, always avoid using `var` whenever possible!
