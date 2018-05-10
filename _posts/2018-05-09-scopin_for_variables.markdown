@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Scopin' for variables"
+title:      "Scopin' For Variables"
 date:       2018-05-09 19:00:41 -0400
 permalink:  scopin_for_variables
 ---
