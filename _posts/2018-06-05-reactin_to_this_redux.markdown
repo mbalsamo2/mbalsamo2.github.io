@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Reactin' to this Redux"
-date:       2018-06-05 18:26:55 +0000
+date:       2018-06-05 14:26:56 -0400
 permalink:  reactin_to_this_redux
 ---
 
